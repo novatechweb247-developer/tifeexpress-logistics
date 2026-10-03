@@ -1,0 +1,6 @@
+{
+  "name": "Tifeexpress Logistics",
+  "description": "Official public website for Tifeexpress Logistics in Challenge Axis, Ibadan. Courier, parcel handling, and delivery solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
